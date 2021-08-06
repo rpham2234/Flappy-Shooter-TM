@@ -1,4 +1,4 @@
-#Flappy Shooter by Richard Pham
+# Flappy Shooter by Richard Pham
 
 Supported browsers:
   - Google Chrome

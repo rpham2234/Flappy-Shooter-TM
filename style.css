@@ -1,0 +1,55 @@
+html {
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #FFFFFF;
+  padding: 0;
+  margin: 40px;
+  text-align: center;
+  background-image: url("https://th.bing.com/th/id/R0d5ee1e9fd73e266e3b3decdb309405a?rik=Qj85OuuvlMpJMA&riu=http%3a%2f%2fth00.deviantart.net%2ffs70%2fPRE%2ff%2f2011%2f203%2f5%2f3%2fmac_os_x_andromeda_galaxy_png_by_vuvuzelahero-d41a0ml.png&ehk=PEf1aaiijNO5CKJVYq%2fgyY%2fLrtomjd8BqOuQF9FBr0Y%3d&risl=&pid=ImgRaw");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size:100%;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdownmenubutton {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #3e8e41;}

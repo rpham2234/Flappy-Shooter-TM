@@ -1,5 +1,5 @@
-var horizontalres = 1280;
-var verticalres = 720;
+var horizontalres = 640;
+var verticalres = 480;
 let birdimg; //I made a custom sprite for the bird.
 let ailenimg;
 let bulletSound;
